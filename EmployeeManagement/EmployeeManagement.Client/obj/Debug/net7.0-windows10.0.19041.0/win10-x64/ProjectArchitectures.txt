@@ -1,0 +1,1 @@
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Client\EmployeeManagement.Client.csproj;x64

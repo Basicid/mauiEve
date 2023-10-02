@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gqAxYpTM0OO+MIrcrsRJQcWB2yFtNhcPWnFQtTPXWko=",
+  "Source": "EmployeeManagement.Server",
+  "BasePath": "_content/EmployeeManagement.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\bin\Debug\net7.0\EmployeeManagement.Shared.deps.json
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\bin\Debug\net7.0\EmployeeManagement.Shared.dll
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\bin\Debug\net7.0\EmployeeManagement.Shared.pdb
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\EmployeeManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\EmployeeManagement.Shared.AssemblyInfoInputs.cache
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\EmployeeManagement.Shared.AssemblyInfo.cs
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\EmployeeManagement.Shared.csproj.CoreCompileInputs.cache
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\EmployeeManagement.Shared.dll
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\refint\EmployeeManagement.Shared.dll
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\EmployeeManagement.Shared.pdb
+E:\MAUI\blazor\blazor\blazor\EmployeeManagement\EmployeeManagement.Shared\obj\Debug\net7.0\ref\EmployeeManagement.Shared.dll
